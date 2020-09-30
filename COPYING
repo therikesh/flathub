@@ -4,7 +4,7 @@
  Copyright (C) 1991, 1999 Free Software Foundation, Inc.
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
  Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ of this license the document, but changing it is not allowed.
 
 [This is the first released version of the Lesser GPL.  It also counts
  as the successor of the GNU Library Public License, version 2, hence
@@ -17,7 +17,7 @@ freedom to share and change it.  By contrast, the GNU General Public
 Licenses are intended to guarantee your freedom to share and change
 free software--to make sure the software is free for all its users.
 
-  This license, the Lesser General Public License, applies to some
+  This license, the Lesser General Public License applies to some
 specially designated software packages--typically libraries--of the
 Free Software Foundation and other authors who decide to use it.  You
 can use it too, but we suggest you first think carefully about whether
@@ -73,7 +73,7 @@ libraries into non-free programs.
   When a program is linked with a library, whether statically or using
 a shared library, the combination of the two is legally speaking a
 combined work, a derivative of the original library.  The ordinary
-General Public License therefore permits such linking only if the
+General Public License, therefore, permits such linking only if the
 entire combination fits its criteria of freedom.  The Lesser General
 Public License permits more lax criteria for linking other code with
 the library.
@@ -81,7 +81,7 @@ the library.
   We call this license the "Lesser" General Public License because it
 does Less to protect the user's freedom than the ordinary General
 Public License.  It also provides other free software developers Less
-of an advantage over competing non-free programs.  These disadvantages
+of an advantage over competing for non-free programs.  These disadvantages
 are the reason we use the ordinary General Public License for many
 libraries.  However, the Lesser license provides advantages in certain
 special circumstances.
@@ -89,15 +89,15 @@ special circumstances.
   For example, on rare occasions, there may be a special need to
 encourage the widest possible use of a certain library, so that it becomes
 a de-facto standard.  To achieve this, non-free programs must be
-allowed to use the library.  A more frequent case is that a free
+allowed to use the library.  A more frequent case is that a the free
 library does the same job as widely used non-free libraries.  In this
 case, there is little to gain by limiting the free library to free
 software only, so we use the Lesser General Public License.
 
   In other cases, permission to use a particular library in non-free
-programs enables a greater number of people to use a large body of
+programs enable a greater number of people to use a large body of
 free software.  For example, permission to use the GNU C Library in
-non-free programs enables many more people to use the whole GNU
+non-free programs enable many more people to use the whole GNU
 operating system, as well as its variant, the GNU/Linux operating
 system.
 
